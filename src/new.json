@@ -1,0 +1,54 @@
+{
+  "Music": [
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": { "S": "Arctic Monkeys" },
+          "SongTitle": { "S": "R U Mine?" },
+          "AlbumTitle": { "S": "AM" },
+          "SongYear": { "S": "2013" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": { "S": "Arctic Monkeys" },
+          "SongTitle": { "S": "Do I Wanna Know?" },
+          "AlbumTitle": { "S": "AM" },
+          "SongYear": { "S": "2013" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": { "S": "Arctic Monkeys" },
+          "SongTitle": { "S": "Brianstorm" },
+          "AlbumTitle": { "S": "Favourite Worst Nightmare" },
+          "SongYear": { "S": "2007" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": { "S": "The Killers" },
+          "SongTitle": { "S": "Mr. Brightside" },
+          "AlbumTitle": { "S": "Hot Fuss" },
+          "SongYear": { "S": "2004" }
+        }
+      }
+    },
+    {
+      "PutRequest": {
+        "Item": {
+          "Artist": { "S": "Oasis" },
+          "SongTitle": { "S": "Stop Crying Your Heart Out" },
+          "AlbumTitle": { "S": "Heathen Chemistry" },
+          "SongYear": { "S": "2002" }
+        }
+      }
+    }
+  ]
+}
